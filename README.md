@@ -8,7 +8,7 @@ Repository ini berisi semua file yang dibutuhkan untuk melakukan deployment mode
 
 ## Sekilas mengenai input model
 
-Agar dapat memprediksi kucing atau anjing, data input model harus mengikuti format sebagai berikut:
+Agar dapat memprediksi tikus atau hamster, data input model harus mengikuti format sebagai berikut:
 
 -   Gambar dengan format umum seperti .jpeg, .png, .webp, dsb.
 -   Gambar dikonversi ke dalam bentuk array/tensor
@@ -44,5 +44,5 @@ Agar dapat memprediksi kucing atau anjing, data input model harus mengikuti form
 ## Akses melalui Website
 
 1. Anda akan diberikan URL untuk membuka website berupa `localhost:5000/` atau `127.0.0.1:5000/`.
-1. Buka URL dengan browser, coba masukkan gambar gajah atau singa yang ingin di prediksi.
-1. Anda akan diberikan prediksi bahwa pada gambar tersebut adalah gajah atau singa pada halaman website.
+1. Buka URL dengan browser, coba masukkan gambar tikus atau hamster yang ingin di prediksi.
+1. Anda akan diberikan prediksi bahwa pada gambar tersebut adalah tikus atau hamster pada halaman website.
